@@ -1,6 +1,6 @@
 # Karanja wa Gas Enterprises
 
-Business website for:
+Business for:
 
 - Gas supply
 - Cars marketplace
